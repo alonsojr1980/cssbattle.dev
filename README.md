@@ -1,4 +1,4 @@
-# MY SOLUTIONS FOR SOME BATTLES
+# MY SOLUTIONS FOR SOME BATTLES (all 10% match)
 
 ## BATTLE #10 - BLOCK
   <img src="./targets/img/50.png" width="50"/> [50 - USE HAND SANITIZER](targets/50.md) (needs serious rework)
