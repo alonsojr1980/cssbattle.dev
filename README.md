@@ -1,5 +1,8 @@
 # MY SOLUTIONS FOR SOME BATTLES (all 100% match)
 
+## BATTLE #1 - PILOT BATTLE
+  <img src="./targets/img/2.png" width="50"/> [2 - CARROM](targets/2.md)
+
 ## BATTLE #10 - BLOCK
   <img src="./targets/img/50.png" width="50"/> [50 - USE HAND SANITIZER](targets/50.md) (needs serious rework)
 
